@@ -1,5 +1,3 @@
-require("dotenv").config();
-
 // Node core modules
 const path = require("path");
 
